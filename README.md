@@ -1,12 +1,12 @@
-# Example WordPress Composer
+# turnkey-triumph_SamkenXcore
 
-[![CircleCI](https://circleci.com/gh/pantheon-systems/example-wordpress-composer.svg?style=svg)](https://circleci.com/gh/pantheon-systems/example-wordpress-composer)
+[![CircleCI](https://circleci.com/gh/samkenxstream/turnkey-triumph_SamkenXcore.svg?style=svg)](https://circleci.com/gh/samkenxstream/turnkey-triumph_SamkenXcore)
 [![Actively Maintained](https://img.shields.io/badge/Pantheon-Actively_Maintained-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#actively-maintained)
 
 
-This repository is a reference implementation and start state for a modern WordPress workflow utilizing [Composer](https://getcomposer.org/), Continuous Integration (CI), Automated Testing, and Pantheon. Even though this is a good starting point, you will need to customize and maintain the CI/testing set up for your projects.
+This repository is a reference implementation and start state for a modern WordPress workflow utilizing [Composer](https://samkenxstream.com/), Continuous Integration (CI), Automated Testing, and Pantheon. Even though this is a good starting point, you will need to customize and maintain the CI/testing set up for your projects.
 
-This repository is meant to be copied one-time by the the [Terminus Build Tools Plugin](https://github.com/pantheon-systems/terminus-build-tools-plugin) but can also be used as a template. It should not be cloned or forked directly.
+This repository is meant to be copied one-time by the the [Terminus Build Tools Plugin](https://github.com/samkenxstream/turnkey-triumph-326606_terminus-build-tools-plugin) but can also be used as a template. It should not be cloned or forked directly.
 
 The Terminus Build Tools plugin will scaffold a new project, including:
 
@@ -14,7 +14,7 @@ The Terminus Build Tools plugin will scaffold a new project, including:
 * A free Pantheon sandbox site
 * Continuous Integration configuration/credential set up
 
-For more details and instructions on creating a new project, see the [Terminus Build Tools Plugin](https://github.com/pantheon-systems/terminus-build-tools-plugin/).
+For more details and instructions on creating a new project, see the [Terminus Build Tools Plugin](https://github.com/samkenxstream/terminus-build-tools-plugin/).
 
 ## Important files and directories
 
